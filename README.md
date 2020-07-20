@@ -1,2 +1,3 @@
-# Beautiful-soup-notes
-Html and xml documents parsing notes using Beautiful Soup package, which is useful for web scraping.
+# Beautiful Soup
+Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your different parsers to provide idiomatic ways of navigating, searching, and modifying the parse tree.
+This notes is developed from Beautiful soup documentation from www.crummy.com website.
